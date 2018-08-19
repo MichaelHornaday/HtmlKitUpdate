@@ -2,6 +2,8 @@
 The starter kit demonstrates how to integrate Izenda BI 7 Series tool in an html page. 
 The API in the kit impersonates all requests to be Izenda Admin user.
 
+Additonal credit to Setch Hutcheson for assistiance with this redux, and Corey Robinson and Triet Pham for the original kit.
+
 ## Izenda Version
 2.5.0
 
